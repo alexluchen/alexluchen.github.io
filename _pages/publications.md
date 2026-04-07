@@ -2,12 +2,12 @@
 layout: page
 permalink: /publications/
 title: publications
-description: TODO google scholar, replace paper with ACL version.
+description:
 nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
+see [Google Scholar](https://scholar.google.com/citations?user=8cCzMb4AAAAJ/) for the most up-to-date information.
 
 <!-- Bibsearch Feature -->
 
