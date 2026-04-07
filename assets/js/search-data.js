@@ -11,14 +11,14 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "TODO google scholar, replace paper with ACL version.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Cool projects!",
+          description: "feel free to take a look!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -439,5 +439,12 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/alex-chen-5692ab208", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=8cCzMb4AAAAJ", "_blank");
         },
       },];
