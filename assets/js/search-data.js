@@ -424,7 +424,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/alex_chen_resume.pdf", "_blank");
         },
       },{
         id: 'social-linkedin',
