@@ -427,6 +427,13 @@ ninja.data = [{
           window.open("/assets/pdf/alex_chen_resume.pdf", "_blank");
         },
       },{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%61%6C%75%63%68%65%6E@%73%74%61%6E%66%6F%72%64.%65%64%75", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
