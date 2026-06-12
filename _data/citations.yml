@@ -1,7 +1,7 @@
 metadata:
-  last_updated: '2026-04-24'
+  last_updated: '2026-06-12'
 papers:
   8cCzMb4AAAAJ:u5HHmVD_uO8C:
-    citations: 1
+    citations: 3
     title: The Pitfalls of KV Cache Compression
     year: '2025'
