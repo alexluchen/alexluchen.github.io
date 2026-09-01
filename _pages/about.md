@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "MS CS @ Stanford, Prev @ Ramp, Amazon"
+subtitle: "MS CS @ Stanford | Prev @ Ramp, Amazon"
 
 profile:
   align: right
