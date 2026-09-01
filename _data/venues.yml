@@ -7,3 +7,7 @@
 
 "Vision":
   color: "#009f36"
+
+"arXiv 2026":
+  url: https://arxiv.org/abs/2608.28293
+  color: "#B31B1B"
