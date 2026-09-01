@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Incoming MSCS @ Stanford, Applied AI @ Ramp | CS @ UCLA"
+subtitle: "MS CS @ Stanford, Prev @ Ramp, Amazon"
 
 profile:
   align: right
@@ -27,4 +27,4 @@ latest_posts:
 
 While I was an undergraduate at UCLA, I conducted research at the [StarAI Lab](https://starai.cs.ucla.edu/) ([Prof. Guy Van den Broeck](https://web.cs.ucla.edu/~guyvdb/)) and [MINT Group](https://aditya-grover.github.io/group/members) ([Prof. Aditya Grover](https://aditya-grover.github.io/)), with a focus on more efficient inference algorithms, particularly in LLM caching. Earlier, I worked with [Prof. Katsushi Arisaka](https://www.elegantmind.org/introduction.html), helping develop software for a robotic dissection system.
 
-Outside of research, I interned as a software engineer on Amazon's recommendations team, where I built a debugger for ML models to improve traceability across recommendations.
+Between research projects, I've also interned at Ramp and Amazon. At Ramp, I built re-evaluations for accounting transaction categorization and adapted KV Cache Compression for state-of-the-art models. At Amazon, I built a debugger for ML models to improve traceability across recommendations.
